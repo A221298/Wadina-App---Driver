@@ -1,8 +1,8 @@
 ### wadina driver app
 
-The driver can view the customers list that assigned to him and view their information 
+The driver can view the customers list that is assigned to them and view their information 
 such as the destination, schedule, phone number and location. with the ability to search the list 
-by customer name.
+by the customer's name.
 
  home page | customer information | Driver search 
  --
